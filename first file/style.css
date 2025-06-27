@@ -1,0 +1,40 @@
+body{
+    background-color: #493C66;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 1rem;
+
+    }
+.poster{
+    width: 50%;
+    margin-left:25%;
+    margin-top: 15%;
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    text-align: center;
+}
+.meme-image{
+  border: 7px solid rgba(104, 75, 102, 0.986);
+  width:100%;
+  border-width: 15px 10px;
+}
+.poster2{
+    width:60%;
+    margin-left:23%;
+    margin-top: 70%;
+    font-family:"Libre Baskerville", serif;
+    color: whitesmoke;
+    text-align:center;
+}
+.meme-image2{
+    border:2px solid black;
+    width:100%;
+}
+.name{
+    width: 100%;
+    font-size:xx-large;
+    border: 4px solid black;
+    margin-top: 10%;
+
+}
